@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+git分值测试
+
 ## Build Setup
 
 ``` bash
