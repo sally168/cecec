@@ -1,7 +1,11 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+<<<<<<< HEAD
     <h2>Essential nihaoVUE2</h2>
+=======
+    <h2>Essential Links-boob</h2>
+>>>>>>> dev-bobo
     <ul>
       <li>
         <a
